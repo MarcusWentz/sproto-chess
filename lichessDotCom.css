@@ -1,0 +1,24 @@
+/* White Pieces */
+.is2d .white.pawn {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/2907-e822705c44654c34?w=1024"); 
+}
+
+.is2d .white.knight {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/1080-785604ba0c1fc13f?w=1024");
+}
+
+.is2d .white.bishop {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/2789-68c3bb4fe96d04c3?w=1024");
+}
+
+.is2d .white.rook {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/1378-c303ed8d4356e53a?w=1024");
+}
+
+.is2d .white.queen {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/1668-8b294f25ef7cc97d?w=1024");
+}
+
+.is2d .white.king {
+  background-image: url("https://images.blur.io/_blur-prod/0xeeca64ea9fcf99a22806cd99b3d29cf6e8d54925/2891-9ecfe55b73352efb?w=1024");
+}
